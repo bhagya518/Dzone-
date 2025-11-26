@@ -4,7 +4,7 @@
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)](https://firebase.google.com/)
 
 
-**A Flutter App to Map Mobile Network DeadZones and Generate Reports for ISPs**
+**A Flutter App to Map Mobile Network DeadZones **
 
 ---
 
