@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "your-project-no",
+    "project_id": "d-zone-5905f",
+    "storage_bucket": "d-zone-5905f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "your-id-placeit-here",
+        "android_client_info": {
+          "package_name": "com.example.d_zoneeee"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "here-your-api-key"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
