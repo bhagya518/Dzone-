@@ -2,9 +2,6 @@
 
 A Flutter project.
 
-## Getting Started With d_zoneeee
-Hello ! I am Sinchana S M . A college student trying some fun projets, here's what d_zoneeee is all about.
-Its a flutter application designed for android.
 
 The whole Intention of this app is to map deadzones and create a report. So whats the use? Yup to answer that , its an attempt to create an report showing all the deadzones mapped, so ISPs can use this data if required for better implementation of their network towers.
 
